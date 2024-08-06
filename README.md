@@ -1,5 +1,7 @@
 # Signal
 
+Reverse engineering challenge I created for TFC CTF 2024
+
 ## Build instructions
 
 `cmake .`
